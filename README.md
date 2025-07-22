@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhurushakona&label=Profile%20views&color=0e75b6&style=flat" alt="madhurushakona" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhurushakona" alt="madhurushakona" /></a> </p>
-
 - 💬 Ask me about **java, python**
 
 - 📫 How to reach me **madhurushakona01@gmail.com**
